@@ -98,6 +98,17 @@ button {
 
 /* Button start */
 
+.button-primary {
+
+  background-color:var(--button-primary-background-color);
+  color:var(--button-color)
+  font-size:var(--button-font-size)
+  line-height:var(--button-line-height);
+}
+var(--button-border-radius)
+
+
+
 /* Button slutt */
 
 /* Card start */
